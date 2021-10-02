@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tokenswap/static/css/main.47ec8507.chunk.css",
+    "main.js": "/tokenswap/static/js/main.252c75e7.chunk.js",
+    "main.js.map": "/tokenswap/static/js/main.252c75e7.chunk.js.map",
+    "runtime-main.js": "/tokenswap/static/js/runtime-main.d27333c9.js",
+    "runtime-main.js.map": "/tokenswap/static/js/runtime-main.d27333c9.js.map",
+    "static/js/2.f809a70d.chunk.js": "/tokenswap/static/js/2.f809a70d.chunk.js",
+    "static/js/2.f809a70d.chunk.js.map": "/tokenswap/static/js/2.f809a70d.chunk.js.map",
+    "index.html": "/tokenswap/index.html",
+    "precache-manifest.ba98dd6589795e36f9fca8c86a3e6ee6.js": "/tokenswap/precache-manifest.ba98dd6589795e36f9fca8c86a3e6ee6.js",
+    "service-worker.js": "/tokenswap/service-worker.js",
+    "static/css/main.47ec8507.chunk.css.map": "/tokenswap/static/css/main.47ec8507.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d27333c9.js",
+    "static/js/2.f809a70d.chunk.js",
+    "static/css/main.47ec8507.chunk.css",
+    "static/js/main.252c75e7.chunk.js"
+  ]
+}
